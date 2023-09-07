@@ -41,8 +41,7 @@ I'm actively seeking job opportunities as a Frontend Developer. I'm proficient i
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- Portfolio: [Your Portfolio Website](https://www.yourportfolio.com/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/poompich-eiabtawee-85b11496/)
 
 Let's connect and work together on exciting projects! 🚀
 
